@@ -1,6 +1,6 @@
 # Booking assessments
-- really super rudimentary!
-##starting it
+
+## starting it (really super rudimentary!)
 
 Run the following commands: 
 
